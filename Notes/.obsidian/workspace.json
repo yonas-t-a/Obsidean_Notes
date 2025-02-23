@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7320b58065c52529",
+            "id": "ae417f5da137790b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "b55c1bbdad9c9cef",
+        "id": "9005ab90bb16bc93",
         "type": "tabs",
         "children": [
           {
-            "id": "811bbe0cb6e108bf",
+            "id": "7320b58065c52529",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -184,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7320b58065c52529",
+  "active": "e2b98464beb72f36",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Operating System and System Programming",
+    "Welcome.md",
+    "create a link.md"
   ]
 }
