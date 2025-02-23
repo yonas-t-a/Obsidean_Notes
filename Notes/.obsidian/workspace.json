@@ -11,10 +11,14 @@
             "id": "ae417f5da137790b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "plan for A+/Study.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Study"
             }
           }
         ]
@@ -180,15 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2b98464beb72f36",
+  "active": "ae417f5da137790b",
   "lastOpenFiles": [
+    "plan for A+/Untitled.md",
+    "plan for A+/Study.md",
+    "plan for A+/Lecture.md",
+    "Welcome.md",
     "Fundamentals of CyberSecurity",
     "Mobile Application Development",
     "Computer graphics",
     "Fundamentals of Artificial Intelligence",
     "plan for A+",
     "Operating System and System Programming",
-    "Welcome.md",
     "create a link.md"
   ]
 }
